@@ -14,9 +14,7 @@ To get this clientId follow the steps below:
 
 4.  Give your project an appropriate name and then click create
 
-5.  After this Hover over APIs and Services and click on credentials:
-    ![](media/image1.png){width="4.563136482939632in"
-    height="2.6774573490813647in"}
+5.  After this Hover over APIs and Services and click on credentials
 
 6.  Then click Create credentials at the top and select OAuth client ID
 
@@ -39,8 +37,7 @@ To get this clientId follow the steps below:
 12. For application type select the type that best suits your product in
     my case this will be a web application
 
-13. ![](media/image2.png){width="5.344444444444444in"
-    height="2.5208333333333335in"}Then if you are using react or any
+13. Then if you are using react or any
     other kind of javascript framework you need to add a javascript
     origin. For react if you run npm start it will run on localhost:3000
     by default So let's add <http://localhost:3000> and
