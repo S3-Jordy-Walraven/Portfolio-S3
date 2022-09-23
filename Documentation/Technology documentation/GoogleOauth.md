@@ -57,7 +57,7 @@ need to your application.\
 \
 Alright, after installing this package create a new react component that
 looks similar to this:
-
+```
 import React from \"react\";
 
 import { GoogleLogin, GoogleOAuthProvider } from
@@ -74,16 +74,16 @@ const SignUpPage = () =\> {
 };
 
 export default SignUpPage;
-
+```
 Make sure you also use the GoogleLogin and GoogleOAuthProvider at the
 top of you file.
 
 Then in the return add a GoogleOAuthProvider and add your clientId.
-
+```
 \<GoogleOAuthProvider clientId=\"CLIENT_ID_HERE\"\>
 
     \</GoogleOAuthProvider\>
-
+```
 After this we will be adding a GoogleLogin button, but let's first go
 over some of the properties for this button:
 
@@ -108,7 +108,7 @@ over some of the properties for this button:
 So after knowing what the properties do we will be adding this
 \<GoogleLogin/\>, we will add this google login inside the
 GoogleOAuthProvider like this:
-
+```
  \<GoogleOAuthProvider clientId=\"\"\>
 
       \<GoogleLogin
@@ -136,13 +136,13 @@ GoogleOAuthProvider like this:
       /\>
 
     \</GoogleOAuthProvider\>
-
+```
 Alright, now add this component to a different component and after
 pressing the login button you should be able to see some credential and
 userId being logged in the console.\
 This credential is encoded as JWT format. You can decode it with this
 method:
-
+```
   parseJwt(token) {
 
     var base64Url = token.split(\".\")\[1\];
@@ -171,3 +171,4 @@ c.charCodeAt(0).toString(16)).slice(-2);
     return JSON.parse(jsonPayload);
 
   }
+  ```
