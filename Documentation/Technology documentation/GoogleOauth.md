@@ -66,9 +66,7 @@ import { GoogleLogin, GoogleOAuthProvider } from
 const SignUpPage = () =\> {
 
   return (
-
-   
-
+  
   );
 
 };
