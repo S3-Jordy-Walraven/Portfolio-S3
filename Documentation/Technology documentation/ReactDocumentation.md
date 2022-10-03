@@ -151,4 +151,4 @@ app:
     </GoogleOAuthProvider>
 ```
 Want more information check out the [Oauth
-documentation](Google%20Oauth.docx) I wrote:
+documentation](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/Documentation/Technology%20documentation/GoogleOauth.md) I wrote:
