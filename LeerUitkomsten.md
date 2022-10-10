@@ -1,5 +1,5 @@
 1.  WebApplication: Voor dit leerdoel heb ik geleerd met react en springboot te werken. 
-    Verder gebruik ik een ORM (JPA, Hibernate) 
+    Verder gebruik ik een ORM (JPA, Hibernate) en heb ik oauth geïmplement in mijn applicatie
     
 2. Software quality: Voor dit leerdoel heb ik gekeken naar security, maar ik moet nog beginnen aan testing
 
