@@ -1,4 +1,4 @@
-**React documentation**
+# React documentation
 
 **\
 React general project setup:**
@@ -27,7 +27,7 @@ the package you added will be installed.
 
 3.  [Axios](#Axios)
 
-4.  React-oauth/google
+4.  [React-oauth/google]()
 
 
 
