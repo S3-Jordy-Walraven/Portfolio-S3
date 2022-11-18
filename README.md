@@ -115,8 +115,11 @@ We will be using [React](https://reactjs.org) for the frontend and [ASP.Net](htt
 Agile is a way of working that is based on the idea that you should be able to adapt to changes in the project.  This is done by making a backlog for the project and then making a plan for the next sprint every couple of weeks. This way you can adapt to changes in the project.
 
 For our own project we use Scrum:
-You can find how we use Scrum in [this](GroupProject/Agile/Scrum.md) file.
-You can find how we use Jira in [this](GroupProject/Agile/Jira.md) file.
+You can find out what scrum is in [this](GroupProject/Agile/Scrum.md) file.
+
+Now let's talk about how we use the agile method within our project:
+
+
 
 ### Cultural differences and ethics
 
