@@ -118,7 +118,7 @@ For our own project we use Scrum:
 You can find out what scrum is in [this](GroupProject/Agile/Scrum.md) file.
 
 Now let's talk about how we use the agile method within our project:
-
+You can find how we use agile [here](GroupProject/Agile/AgileInOwnProject.md)
 
 
 ### Cultural differences and ethics
