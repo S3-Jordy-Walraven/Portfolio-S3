@@ -20,7 +20,7 @@
   
   ### Acceptance criteria
    * Effects needs to get displayed on homepage
-   * Effects can get previewed before downloading them
+   * Effects can get previewed in a detail page before downloading them
    * Effects can be downloaded
    * Downloaded effects need to work in SignalRGB
    
