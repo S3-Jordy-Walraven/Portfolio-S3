@@ -46,6 +46,9 @@ Signify is a web app where people can upload their own SignalRGB effects. For co
 So now for the feature description, effect creators should be able to register their own account and upload their own effects without having strict effect restrictions. On the main page users should be able to see these effects and be able to download them for use in SignalRGB. Logged in users should also be able to favorite the effects they like, so they can easily see if an effect has a new update. Based on downloads and favorites the most popular integrations will show up first on the main page. Users should also be able to preview the effects before they download them.
 <br/>
 
+### User Stories
+The user stories are written in a seperate file, you can find them [here](./IndividualProject\UserStories.md)
+
 <h3>Projects</h3>
 You can find the application in the following 2 repositories:
 
@@ -59,9 +62,9 @@ For this web application I did research to distributed systems and microservices
 I am using a javascript framework, because I heard a lot of positive things about them. I chose for springboot, because I wanted to try something new. The first 2 semesters were all c# so I wanted to try a new language. 
 
 You can find more documentation about my Application in the following files:
-- [React documentation](Documentation/Technology%20documentation/ReactDocumentation.md)
-- [Google Oauth documentation](Documentation/Technology%20documentation/GoogleOauth.md)
-- [Springboot documentation](Documentation/Technology%20documentation/SpringbootDocumentation.md)
+- [React documentation](IndividualProject/Technology%20documentation/ReactDocumentation.md)
+- [Google Oauth documentation](IndividualProject/Technology%20documentation/GoogleOauth.md)
+- [Springboot documentation](IndividualProject/Technology%20documentation/SpringbootDocumentation.md)
 ### Software quality
 
 #### Authentication 
