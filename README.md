@@ -47,7 +47,7 @@ So now for the feature description, effect creators should be able to register t
 <br/>
 
 ### User Stories
-The user stories are written in a seperate file, you can find them [here](./IndividualProject\UserStories.md)
+The user stories are written in a seperate file, you can find them [here](./IndividualProject/UserStories.md)
 
 <h3>Projects</h3>
 You can find the application in the following 2 repositories:
