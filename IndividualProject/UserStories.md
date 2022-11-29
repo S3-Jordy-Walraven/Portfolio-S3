@@ -14,6 +14,8 @@
    * Code has been reviewed by someone else
    * Documentation updated
    * Docker image has been updated
+   * Passes sonarcloud analysis
+   * Code coverage is at least 80%
    <hr>
    
   ## Us2: As someone searching for effects I want to be able to see the effects other have made, so that I can download them for use in SignalRGB
@@ -31,6 +33,8 @@
    * Code has been reviewed by someone else
    * Documentation updated
    * Docker image has been updated
+   * Passes sonarcloud analysis
+   * Code coverage is at least 80%
       <hr>
    
   ## Us3: As Effect creator I want to see the effects I have uploaded, so that I can edit or delete them when necessary
@@ -49,5 +53,7 @@
    * Code has been reviewed by someone else
    * Documentation updated
    * Docker image has been updated
+   * Passes sonarcloud analysis
+   * Code coverage is at least 80%
    
    
