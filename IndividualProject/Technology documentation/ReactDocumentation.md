@@ -1,16 +1,17 @@
 # React documentation
 
-**\
-React general project setup:**
+## Looking for explanation of the structure of the project, click [here](../Structure/ReactStructure.md)
+
+
+## React general project setup:
 
 Project setup in react is very easy. Make sure you have nodejs installed
 and after that run "npx create-react-app CHOSENNAME" in the terminal.
 This will create a basic template with all the stuff you need.
 
-**Packages used:**
+## Packages used:
 
-**\
-General package information:**
+General package information:
 
 React packages are packages that extend the functionality of react. Down
 below you can see some really useful packages. You can install most
@@ -19,7 +20,7 @@ command a dependency to this package will be added in the package.json
 file. This means that the next time you or someone else runs npm install
 the package you added will be installed.
 
-**Packages that I will be describing:**
+## Packages that I will be describing:
 
 1.  [React Router](#ReactRouter)
 
@@ -27,11 +28,11 @@ the package you added will be installed.
 
 3.  [Axios](#Axios)
 
-4.  [React-oauth/google]()
+4.  [React-oauth/google](#React-oauth/google)
 
 
 
-**React router:**
+## React router:
 
 The react router package is a very useful package if you want to add
 routing to your react application. This means that it can display
@@ -56,8 +57,8 @@ how to use this package.
 ```
 After adding something like this to your application(Mostly used in
 app.js, or index.js). You can change the URL without reloading with some
-other components in this package.\
-\
+other components in this package.
+
 The first one is the \<Link\> component, you can use it the same way as
 a normal html button, with a slightly different syntax:
 ```javascript
@@ -151,4 +152,5 @@ app:
     </GoogleOAuthProvider>
 ```
 Want more information check out the [Oauth
-documentation](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/Documentation/Technology%20documentation/GoogleOauth.md) I wrote:
+documentation](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/Documentation/Technology%20documentation/GoogleOauth.md) I wrote
+
