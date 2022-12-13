@@ -24,7 +24,7 @@ In this portfolio I will go over the learning outcomes and how I will achieve th
 |   1   | [Web application](#web-application)                  | You design and build user-friendly, full-stack web applications |
 |   2   | [Software quality](#software-quality)                 | You use software tooling and methodology that continuously monitors and improve the software quality during software development|
 |   3   | [Agile method](#agile-method)                     | You choose and implement the most suitable agile software development method for your software project  |
-|   4   | CI/CD                            | You design and implement a (semi)automated software release process that matches the needs of the project context |
+|   4   | [CI/CD](#ci/cd)                            | You design and implement a (semi)automated software release process that matches the needs of the project context |
 |   5   | Cultural differences and ethics  | You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development  |
 |   6   | [Requirements and design](#requirements-and-design)          | You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques             |
 |   7   | Business processes               | You analyze and describe simple business processes that are related to your project  |
