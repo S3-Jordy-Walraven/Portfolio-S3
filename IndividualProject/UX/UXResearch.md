@@ -17,7 +17,7 @@ SignalRGB has a very dark color pallete with some very high saturated gradients 
 ### General layout:
 SignalRGB has a simple layout with a sidebar on the left and the page content on the right.
 
-<img src="./Images/SideBar.png">
+<img src="./Images/Sidebar.png">
 
 This sidebar has is split up in mutiple small topics, and covers all the main features of signal
 
