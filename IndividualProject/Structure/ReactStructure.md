@@ -5,9 +5,8 @@
 1. [General structure](#general-structure)
 2. [Pages](#pages)
 3. [Components](#components)
-4. [Canvas Components](#canvas-component)
-5. [Tests](#tests)
-6. [How to use the userContext in your own page](#how-to-use-the-usercontext-in-your-own-page)
+4. [Tests](#tests)
+5. [How to use the userContext in your own page](#how-to-use-the-usercontext-in-your-own-page)
 
 
 
@@ -53,8 +52,8 @@ These pages will be rendered by the paths configured in the App.js file.
 ## Components
 This components folder is very similar to the pages folder structure wise, but this folder holds the components that are used in the pages. The components are also split up between the different features in the application.
 
-## Canvas Component
-The canvas component is a very special component. This component modifies the uploaded html so that it can be used inside the website. The canvas component watches for changes in a file input field. When a file the canvas component will be triggered and modify the html. The canvas component also has a htmlStringCallback. In this callback the canvas component will return the modified html so that it can be posted to the backend. The canvas component is used in the following way:
+### Canvas Component
+The canvas component is a very special component. This component modifies the uploaded html so that it can be used inside the website. Specifically it converts the meta tags that are used by signal to variables in the code. The canvas component watches for changes in a file input field. When a file the canvas component will be triggered and modify the html. The canvas component also has a htmlStringCallback. In this callback the canvas component will return the modified html so that it can be posted to the backend. The canvas component is used in the following way:
 ```javascript
       <Canvas
         fileInput={html}
