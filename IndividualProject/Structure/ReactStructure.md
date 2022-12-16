@@ -63,6 +63,24 @@ The canvas component is a very special component. This component modifies the up
 ```
 The fileInput is the file input field that is used to upload the html file. The htmlStringCallback is the callback that is used to return the modified html. The finalString expects the html to be rendered in the canvas. Normally this would be the html that is returned by the htmlStringCallback.
 
+### Effect item component
+This component renders html that has already been modified by the canvas component. This means that the html that is rendered by this component is already ready to be posted to the backend. The effect item is a small shaped card with the rendered effect, creator name and effect name. 
+
+You use the effect item component in the following way:
+```javascript
+ <EffectItem effect={effect} />
+```
+You pass in effect where effect is the full effect object that is returned by the backend.
+
+
+### Effect table component
+The effect table component holds the Effect item components, the effect table component is used to render multiple effect returned by the backend. It will render a grid with the effect items. The effect table component is used in the following way:
+```javascript
+<EffectTableComponent effects={props.allEffects} />
+```
+You pass in effects where effects is an array of effect objects that are returned by the backend.
+
+
 ## Tests 
 This test folder holds all the unit tests that are used in the application. When adding a new feature make sure unit tests are in place! 
 
