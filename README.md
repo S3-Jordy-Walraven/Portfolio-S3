@@ -82,8 +82,11 @@ To track the process of the research we made issues in github, this way we could
 
 For the individual project, group project and researches we made seperate orginizations in github. This way we could keep everything seperated and we could easily see what we did in each project. We split up the projects in multiple repositories, like for example a frontend and backend repository. 
 
-#### CI/CD
+### CI/CD
 For this project I used github actions to setup CI/CD. You can find out how I used github actions [here](/IndividualProject/CICD/GithubActions.md)
+
+### Outsourcing
+For this project I outsourced a feature to a fellow student and I also recieved a feature I had to work on. You can find out how I did this [here](/IndividualProject/Outsource/Outsource.md)
 
 ## 4.Group project
 <hr>
