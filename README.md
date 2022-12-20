@@ -64,7 +64,7 @@ I am using a javascript framework, because I heard a lot of positive things abou
 You can find more documentation about my Application in the following files:
 - [React documentation](IndividualProject/Technology%20documentation/ReactDocumentation.md)
 - [Google Oauth documentation](IndividualProject/Technology%20documentation/GoogleOauth.md)
-- [Springboot documentation](IndividualProject/Technology%20documentation/SpringbootDocumentation.md)
+- [Springboot documentation](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/IndividualProject/Technology%20documentation/SpringBootDocumentation.md)
 ### Software quality
 
 #### Authentication 
@@ -128,8 +128,8 @@ You can find how we use agile [here](GroupProject/Agile/AgileInOwnProject.md)
 
 
 ### Cultural differences and ethics
-* [Cultural](GroupProject\Cultural&Ethics\Cultural.md)
-* [Ethics](GroupProject\Cultural&Ethics\Ethics.md)
+* [Cultural](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/GroupProject/Cultural%26Ethics/Cultural.md)
+* [Ethics](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/GroupProject/Cultural%26Ethics/Ethics.md)
 
 
 <br>
@@ -149,7 +149,7 @@ The second research I also did with Gökay, and this research was about CORS. We
 We create a repository in our orginization for this, you can find this repository [here](https://github.com/Gokay-Jordy-S3-Onderzoek/CORS-Research)
 
 ### Ux Research
-I also did a small Ux research. You can find this [here](IndividualProject\UX\UXResearch.md)
+I also did a small Ux research. You can find this [here](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/IndividualProject/UX/UXResearch.md)
 
 
 
