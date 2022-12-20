@@ -128,6 +128,9 @@ You can find how we use agile [here](GroupProject/Agile/AgileInOwnProject.md)
 
 
 ### Cultural differences and ethics
+* [Cultural](GroupProject\Cultural&Ethics\Cultural.md)
+* [Ethics](GroupProject\Cultural&Ethics\Ethics.md)
+
 
 <br>
 
@@ -140,6 +143,10 @@ For a more detailed explanation look [here](GroupProject/Designs/Documentation/R
 ### CSRF research
 The first research I did with Gökay, and this research was about CSRF. We did this research because we wanted to know how CSRF works and how we can prevent it, and if we need it in our own individual project.
 We created a seperate git orginization for this research , you can find this repository [here](https://github.com/Gokay-Jordy-S3-Onderzoek/CSRF-Research)
+
+### CORS Research
+The second research I also did with Gökay, and this research was about CORS. We did this research because we wanted to know how CORS works and how we can implement it in our own individual project.
+We create a repository in our orginization for this, you can find this repository [here](https://github.com/Gokay-Jordy-S3-Onderzoek/CORS-Research)
 
 
 
