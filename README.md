@@ -148,6 +148,8 @@ We created a seperate git orginization for this research , you can find this rep
 The second research I also did with Gökay, and this research was about CORS. We did this research because we wanted to know how CORS works and how we can implement it in our own individual project.
 We create a repository in our orginization for this, you can find this repository [here](https://github.com/Gokay-Jordy-S3-Onderzoek/CORS-Research)
 
+### Ux Research
+I also did a small Ux research. You can find this [here](IndividualProject\UX\UXResearch.md)
 
 
 
