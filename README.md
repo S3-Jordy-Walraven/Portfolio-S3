@@ -27,7 +27,7 @@ In this portfolio I will go over the learning outcomes and how I will achieve th
 |   4   | [CI/CD](#ci/cd)                            | You design and implement a (semi)automated software release process that matches the needs of the project context |
 |   5   | [Cultural differences and ethics](#cultural-differences-and-ethics)  | You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development  |
 |   6   | [Requirements and design](#requirements-and-design)          | You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques             |
-|   7   | Business processes               | You analyze and describe simple business processes that are related to your project  |
+|   7   | [Business processes](#business-processes)               | You analyze and describe simple business processes that are related to your project  |
 |   8   | [Professional](#professional)                     | You act in a professional manner during software development and learning  |
 
 ## 3.Individual Project
