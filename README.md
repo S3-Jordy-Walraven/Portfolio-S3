@@ -131,6 +131,9 @@ You can find how we use agile [here](GroupProject/Agile/AgileInOwnProject.md)
 * [Cultural](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/GroupProject/Cultural%26Ethics/Cultural.md)
 * [Ethics](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/GroupProject/Cultural%26Ethics/Ethics.md)
 
+### Business processes
+* [Document](https://github.com/S3-Jordy-Walraven/Portfolio-S3/blob/main/GroupProject/BusinessProcesses/BusinessProcesses.md)
+
 
 <br>
 
