@@ -17,7 +17,7 @@ A major guideline that helps developers in makikng ehtical software is the [Code
 For our group project we are creating an app where people can reserve and park on parking spots in a garage. This app allows people to login and couple their car, it also makes sure that there are available spaces when someone wants to reserve a spot. 
 
 
-### Handing data
+### Handling data
 We need to make sure that the data that is handled by our app is handled in a ethical way. This means that we need to make sure that the data is secure and that the data is not used for anything else than what it is intended for. We have a feature where users can login into our app, we don't need most of this userData, so the only thing that we save in our database is the User ID. This way we can make sure that the data is secure and that the data is not used for anything else than what it is intended for.
 
 A flaw with the way we handle user data is that a license plate needs to be couple to the a reservation. This means that its possible to see which license plate was where. A way we could've prevented this is by hashing the license plate. This way we could've made sure that the license plate is not readable.
